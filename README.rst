@@ -8,7 +8,7 @@ The latest version available on PyPi is v0.5.0.
 .. |licence| image:: https://img.shields.io/badge/License-MIT-yellow.svg
    :target: https://opensource.org/licenses/MIT
    :alt: MIT
-.. |build-status| image:: https://travis-ci.org/yadudoc/kittpy.svg?branch=master
+.. |build-status| image:: https://travis-ci.org/yadudoc/kittypy.svg?branch=master
    :target: https://travis-ci.org/yadudoc/kittpy
    :alt: Build status
 .. |docs| image:: https://readthedocs.org/projects/parsl/badge/?version=latest
