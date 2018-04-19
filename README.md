@@ -1,2 +1,0 @@
-# kittypy
-Python for kittens
