@@ -9,7 +9,7 @@ The latest version available on PyPi is v0.5.0.
    :target: https://opensource.org/licenses/MIT
    :alt: MIT
 .. |build-status| image:: https://travis-ci.org/yadudoc/kittypy.svg?branch=master
-   :target: https://travis-ci.org/yadudoc/kittpy
+   :target: https://travis-ci.org/yadudoc/kittypy
    :alt: Build status
 .. |docs| image:: https://readthedocs.org/projects/parsl/badge/?version=latest
    :target: http://parsl.readthedocs.io/en/latest/?badge=latest
